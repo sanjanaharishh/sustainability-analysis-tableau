@@ -15,7 +15,7 @@ To compare environmental performance across countries before and after the intro
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## KPI Comparison (Pre vs Post SDGs)
-![KPI Comparison](screenshots/kpi_comparison.png)
+![KPI Comparison](screenshots/kpi-comparison-2010-2014-vs-2015-2020.png)
 
 ## Trend Analysis
 ![Trend Analysis](screenshots/trend_analysis.png)
