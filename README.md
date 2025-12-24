@@ -12,16 +12,16 @@ To compare environmental performance across countries before and after the intro
 - Manufacturing value added (% of GDP)
 
 ## Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Dashboard_Overview.png)
 
 ## KPI Comparison (Pre vs Post SDGs)
 ![KPI Comparison](screenshots/kpi-comparison-2010-2014-vs-2015-2020.png)
 
 ## Trend Analysis
-![Trend Analysis](screenshots/trend_analysis.png)
+![Trend Analysis](screenshots/Trends_Analysis.png)
 
 ## Global Comparison
-![Global Scatter Plot](screenshots/global_scatter_plot.png)
+![Global Scatter Plot](screenshots/Global_Scatter_Plot.png)
 
 ## Tools & Skills Used
 - Tableau (Dashboards, KPIs, Filters, Calculated Fields)
